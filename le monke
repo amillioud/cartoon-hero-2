@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Le Monke</title>
+</head>
+<h2>Le Monke</h2>
+<body>
+	<!-- header element -->
+	<header>
+		<img src="https://ih1.redbubble.net/image.893361640.4979/flat,750x,075,f-pad,750x1000,f8f8f8.jpg">
+	</header>
+
+  	<!-- main element -->
+  	<main>
+  		<h2></h2>
+  		<p>Uh oh, le monke is stinky</p>
+  		<h3>Le monke friends</h3>
+    		<p>Le monke girlfriend</p>
+  			<img src="https://i.redd.it/uo5l5pciziu31.png">
+  			<p>Le Monke french cousin</p>
+  			<img src="https://m.media-amazon.com/images/I/41FaeFr8VOL._AA256_.jpg">
+  			<p>Le monke italian cousin</p>
+  			<img src="https://youtubeizleindir.org/resimler/resim_sGSoFnWENFVPRHZ.jpeg">
+  	</main>
+
+</body>
+</html>
